@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ViewsDemo"
+rootProject.name = "UK"
 include(":app")
  
